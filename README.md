@@ -1,5 +1,6 @@
 ## Cherry Express Delivery Project (COMP IT/IE Y.2567)
 
+![Picture](https://github.com/SKY-TKP/Cherry-Express/blob/main/picture/background.png)
 * **ชื่อโครงการ:** Cherry Express Delivery 
 * **วัตถุประสงค์:** พัฒนาระบบจัดส่งพัสดุอัจฉริยะที่ยกระดับประสบการณ์การรับส่งพัสดุ  ตอบสนองความต้องการของผู้บริโภคยุคดิจิทัลที่ต้องการความรวดเร็ว  ความสะดวกสบาย  และความแม่นยำ
 * **ระยะเวลาโครงการ:** 42 วัน
