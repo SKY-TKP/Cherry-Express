@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <?php include 'connection.php'; ?>
 <!DOCTYPE html>
 <html>
